@@ -114,7 +114,7 @@ class BinaryEquationParser{
     }
 }
 
-public class BinaryMain{
+public class BInaryMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the binary equation to solve:");
